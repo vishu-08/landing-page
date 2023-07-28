@@ -1,0 +1,69 @@
+
+.wrapper{
+    position: relative;
+    background-color: black;
+    height:100vh;
+    overflow-x:hidden;
+    overflow-y:auto;
+    
+}
+
+.container{
+    height: vh;
+    width: 1200px;
+    height: 700px;
+}
+
+.right-navbar{
+display: flex;
+
+align-items: center;
+position: absolute;
+width: 979px;
+height: 57px;
+left: 800px;
+top: 57px;
+
+background: #BBE1FA;
+border-radius: 47px;
+}
+
+.nav{
+padding-left: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+}
+
+#Rovengers{
+    position: absolute;
+     width: 700px;
+    height: 175.5px;
+    left: 89px;
+    top: 150px;
+}
+
+.para{
+    position: absolute;
+width: 500px;
+height: 200px;
+left: 89px;
+top: 350px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 126%;
+color: #BBE1FA;
+}
+
+#logo{
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    left: 1005px;
+    top: 230px;
+}
+

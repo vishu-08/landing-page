@@ -7,11 +7,20 @@
     overflow-y:auto;
     
 }
+#hamburger{
+    width: 5%;
+    padding-left: 80px;
+    padding-top: 57px;
+}
 
 .container{
     height: vh;
     width: 1200px;
     height: 700px;
+}
+a{
+    color: black;
+    text-decoration: none;
 }
 
 .right-navbar{
@@ -20,7 +29,7 @@ display: flex;
 align-items: center;
 position: absolute;
 width: 979px;
-height: 57px;
+height: 47px;
 left: 800px;
 top: 57px;
 
@@ -30,10 +39,12 @@ border-radius: 47px;
 
 .nav{
 padding-left: 50px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
+font-family: 'Poppins';
+font-style: bold;
+font-weight: 700;
 font-size: 25px;
+color: black;
+
 }
 
 #Rovengers{
@@ -45,13 +56,13 @@ font-size: 25px;
 }
 
 .para{
-    position: absolute;
+position: absolute;
 width: 500px;
 height: 200px;
 left: 89px;
 top: 350px;
 
-font-family: 'Roboto';
+font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
 font-size: 46px;
